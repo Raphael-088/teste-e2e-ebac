@@ -1,0 +1,12 @@
+{
+  "email": "teste2025@teste.com",
+  "senha": "teste@2025",
+  "nome": "João",
+  "sobrenome": "Silva",
+  "endereco": "Rua das Palmeiras, 123",
+  "cidade": "Uberlândia",
+  "cep": "38400-000",
+  "estado": "Minas Gerais",
+  "pais": "Brasil",
+  "telefone": "34999999999"
+}
